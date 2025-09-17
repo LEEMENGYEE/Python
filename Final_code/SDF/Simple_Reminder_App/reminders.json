@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Test Reminder",
+    "time": "2025-09-17 14:00",
+    "repeat": false,
+    "category": "Demo",
+    "snooze_delay": 5,
+    "done": true,
+    "_notifying": false
+  },
+  {
+    "title": "HIiiiii",
+    "time": "2025-09-18 20:55",
+    "repeat": true,
+    "category": "Sleep",
+    "snooze_delay": 1,
+    "done": false,
+    "_notifying": false
+  },
+  {
+    "title": "Test 1",
+    "time": "2025-09-18 22:39",
+    "repeat": true,
+    "category": "A",
+    "snooze_delay": 1,
+    "done": false,
+    "_notifying": false
+  }
+]

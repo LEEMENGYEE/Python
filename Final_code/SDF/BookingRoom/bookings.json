@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Conference Room A",
+        "capacity": 10,
+        "equipment": [
+            "Projector",
+            "Whiteboard",
+            "Video Conferencing"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Conference Room B",
+        "capacity": 8,
+        "equipment": [
+            "TV",
+            "Whiteboard"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Meeting Room C",
+        "capacity": 6,
+        "equipment": [
+            "Projector"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Collaboration Room D",
+        "capacity": 12,
+        "equipment": [
+            "Projector",
+            "Video Conferencing",
+            "Smart Board"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Focus Room E",
+        "capacity": 4,
+        "equipment": [
+            "Monitor"
+        ]
+    }
+]

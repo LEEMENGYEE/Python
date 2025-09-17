@@ -1,0 +1,54 @@
+[
+    {
+        "id": 2,
+        "room": "Focus Room E",
+        "date": "2025-09-16",
+        "start_time": "19:00",
+        "end_time": "19:30",
+        "purpose": "Study",
+        "participants": 2,
+        "created_at": "2025-09-16 18:32:59"
+    },
+    {
+        "id": 3,
+        "room": "Focus Room E",
+        "date": "2025-09-17",
+        "start_time": "08:00",
+        "end_time": "10:00",
+        "purpose": "Study",
+        "participants": 2,
+        "created_at": "2025-09-16 19:04:37"
+    },
+    {
+        "id": 3,
+        "room": "Collaboration Room D",
+        "date": "2025-09-17",
+        "start_time": "08:00",
+        "end_time": "10:00",
+        "purpose": "ghv",
+        "participants": 2,
+        "created_at": "2025-09-17 00:47:34"
+    },
+    {
+        "id": 4,
+        "room": "Conference Room A",
+        "date": "2025-09-17",
+        "start_time": "12:00",
+        "end_time": "13:00",
+        "purpose": "Study",
+        "participants": 2,
+        "student_id": "24WVD23454",
+        "created_at": "2025-09-17 01:08:37"
+    },
+    {
+        "id": 5,
+        "room": "Conference Room A",
+        "date": "2025-09-17",
+        "start_time": "13:00",
+        "end_time": "14:00",
+        "purpose": "Study",
+        "participants": 2,
+        "student_id": "24WVM95876",
+        "created_at": "2025-09-17 01:09:25"
+    }
+]
